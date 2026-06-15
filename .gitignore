@@ -1,5 +1,2 @@
 target/
 tools/
-*.db
-mocks/mappings/
-mocks/__files/
